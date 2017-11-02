@@ -1,0 +1,70 @@
+.disable_padding_right{
+    padding-right: 0px;
+}
+header{
+    background-color: #99C5F4;
+    min-height: 100px;
+    margin-bottom: 10px;
+}
+.brand,.global_nav,.tools{
+    background-color: #D0DFFF;
+    min-height: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#hero{
+    margin-left: 15px;
+}
+#main_content{
+    margin-left: 15px;
+}
+.hero_content{
+    background-color: #99C5F4;
+    min-height: 200px;
+    margin-bottom: 10px;
+}
+.hero_features{
+    background-color: #D0DFFF;
+    min-height: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.hero_call_to_action{
+    background-color: #D0DFFF;
+    min-height: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.add{
+    background-color: #69A6DF;
+    min-height: 200px;
+    margin-bottom: 10px;
+}
+.body_content{
+    background-color: #99C5F4;
+    min-height: 350px;
+    margin-bottom:10px; 
+}
+.article_features,.article_listing{
+    min-height: 300px;
+    background-color: #D0DFFF;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.sidebar_feature{
+     background-color: #99C5F4;
+      min-height: 350px;
+      padding: 25px 15px;
+}
+.feature_content{
+      width: 100%;
+    background-color: #D0DFFF;
+    min-height: 300px
+   
+}
+footer{
+    background-color: #99C5F4;
+    min-height: 80px;
+    
+}
